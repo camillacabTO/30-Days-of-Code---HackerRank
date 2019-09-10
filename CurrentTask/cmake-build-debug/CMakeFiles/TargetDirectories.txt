@@ -1,0 +1,3 @@
+/Users/camilabarros/Desktop/Coding/30 Days of Code/CurrentTask/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/camilabarros/Desktop/Coding/30 Days of Code/CurrentTask/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/camilabarros/Desktop/Coding/30 Days of Code/CurrentTask/cmake-build-debug/CMakeFiles/CurrentTask.dir
